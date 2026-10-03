@@ -1,6 +1,14 @@
-# 💫 About Me:
-<br># 👩‍💻 Khushi Kushwah | About Me<br><br>class AboutMe:<br>    def __init__(self):<br>        self.name = "Khushi Kushwah"<br>        self.education = "B.S. in Applied AI & Data Science"<br>        self.institute = "IIT Jodhpur"<br>        self.year = "2nd Year"<br>        self.role = "Aspiring Data Scientist 🚀"<br>        <br>        self.interests = [<br>            "Artificial Intelligence 🤖",<br>            "Machine Learning 🧠",<br>            "Data Science 📊",<br>            "Data Analytics 🔍",<br>            "Problem Solving 💡",<br>            "Building Real-World Projects 🛠️"<br>        ]<br><br>        self.currently_learning = [<br>            "Python 🐍",<br>            "Data Analysis 📈",<br>            "Machine Learning 🤖",<br>            "AI & Emerging Technologies 🌐"<br>        ]<br><br>        self.goals = [<br>            "Build intelligent, data-driven solutions",<br>            "Turn data into meaningful insights",<br>            "Work on innovative real-world projects",<br>            "Grow into a skilled Data Scientist"<br>        ]<br><br>    def introduce(self):<br>        print(<br>            "Hey there! 👋 I'm Khushi, an enthusiastic learner "<br>            "exploring the world of Data Science and AI. "<br>            "I love turning curiosity into knowledge, "<br>            "ideas into projects, and data into insights. "<br>            "Always learning, always building, and "<br>            "always looking for the next challenge! 🚀"<br>        )<br><br>me = AboutMe()<br>me.introduce()
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="13%">
+        <img src="./assets/boy_waving.gif" width="90" />
+      </td>
+      <td align="center" width="90%">
+        <img src="./assets/header.png" alt="Khushi Kushwah Header" width="100%" />
+      </td>
+    </tr>
+  </table>
 
 ## `💫 About Me:`
 

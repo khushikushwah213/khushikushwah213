@@ -5,10 +5,16 @@
 <!-- ===================================================== -->
 
 <div align="center">
-
-  <img src="./assets/header.png" alt="Khushi Kushwah - Data Science and AI" width="100%" />
-
-  <h1>Hey there! 👋 I'm Khushi Kushwah</h1>
+  <table>
+    <tr>
+      <td align="center" width="13%">
+        <img src="./assets/boy_waving.gif" width="90" />
+      </td>
+      <td align="center" width="90%">
+        <img src="./assets/header.png" alt="Daksh Khandelwal Header" width="100%" />
+      </td>
+    </tr>
+  </table>
 
   <h3>🚀 Aspiring Data Scientist | AI & Machine Learning Enthusiast</h3>
 

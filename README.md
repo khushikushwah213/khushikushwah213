@@ -2,6 +2,55 @@
 <br># 👩‍💻 Khushi Kushwah | About Me<br><br>class AboutMe:<br>    def __init__(self):<br>        self.name = "Khushi Kushwah"<br>        self.education = "B.S. in Applied AI & Data Science"<br>        self.institute = "IIT Jodhpur"<br>        self.year = "2nd Year"<br>        self.role = "Aspiring Data Scientist 🚀"<br>        <br>        self.interests = [<br>            "Artificial Intelligence 🤖",<br>            "Machine Learning 🧠",<br>            "Data Science 📊",<br>            "Data Analytics 🔍",<br>            "Problem Solving 💡",<br>            "Building Real-World Projects 🛠️"<br>        ]<br><br>        self.currently_learning = [<br>            "Python 🐍",<br>            "Data Analysis 📈",<br>            "Machine Learning 🤖",<br>            "AI & Emerging Technologies 🌐"<br>        ]<br><br>        self.goals = [<br>            "Build intelligent, data-driven solutions",<br>            "Turn data into meaningful insights",<br>            "Work on innovative real-world projects",<br>            "Grow into a skilled Data Scientist"<br>        ]<br><br>    def introduce(self):<br>        print(<br>            "Hey there! 👋 I'm Khushi, an enthusiastic learner "<br>            "exploring the world of Data Science and AI. "<br>            "I love turning curiosity into knowledge, "<br>            "ideas into projects, and data into insights. "<br>            "Always learning, always building, and "<br>            "always looking for the next challenge! 🚀"<br>        )<br><br>me = AboutMe()<br>me.introduce()
 
 
+## `💫 About Me:`
+
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Khushi Kushwaha"
+        self.education = "B.S. in Applied AI & Data Science"
+        self.institute = "IIT Jodhpur"
+        self.year = "2nd Year"
+        self.role = "Aspiring Data Scientist 🚀"
+        
+        self.interests = [
+            "Artificial Intelligence 🤖",
+            "Machine Learning 🧠",
+            "Data Science 📊",
+            "Data Analytics 🔍",
+            "Problem Solving 💡",
+            "Building Real-World Projects 🛠️"
+        ]
+
+        self.currently_learning = [
+            "Python 🐍",
+            "Data Analysis 📈",
+            "Machine Learning 🤖",
+            "AI & Emerging Technologies 🌐"
+        ]
+
+        self.goals = [
+            "Build intelligent, data-driven solutions",
+            "Turn data into meaningful insights",
+            "Work on innovative real-world projects",
+            "Grow into a skilled Data Scientist"
+        ]
+
+    def introduce(self):
+        print(
+            "Hey there! 👋 I'm Khushi, an enthusiastic learner "
+            "exploring the world of Data Science and AI. "
+            "I love turning curiosity into knowledge, "
+            "ideas into projects, and data into insights. "
+            "Always learning, always building, and "
+            "always looking for the next challenge! 🚀"
+        )
+
+me = AboutMe()
+me.introduce()
+```
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khushi-kushwah-94420b421/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khushikushwah213@gmail.com) 
 
